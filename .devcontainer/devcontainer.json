@@ -1,6 +1,6 @@
 {
   "name": "Pepperdine Systems Programming Courses (RISC-V + native)",
-  "image": "ghcr.io/cupp/pep-sysprog:2026fa",
+  "image": "ghcr.io/cupp/pep-sysprog:2026fa2",
   "remoteUser": "student",
   "workspaceFolder": "/home/student/work",
   "workspaceMount": "source=${localWorkspaceFolder},target=/home/student/work,type=bind,consistency=cached",
